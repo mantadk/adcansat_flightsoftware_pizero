@@ -1,0 +1,11 @@
+# Ignore build artifacts
+rpi_camera
+*.o
+
+# Ignore images directory
+images/
+
+# Ignore editor/OS files
+*.swp
+*.swo
+.DS_Store
