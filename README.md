@@ -4,4 +4,4 @@
 
 - libcamera
 - gcc
-- cmake
+- build-essentials
