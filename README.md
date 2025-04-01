@@ -1,4 +1,6 @@
-# adcansat_flightsoftware_pizero
+# ADK CanSat RPi Zero Flight Software
+
+
 
 ## apt dependencies
 
